@@ -1,0 +1,19 @@
+C:\3 курс\ФТПЗ\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\3 курс\ФТПЗ\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\3 курс\ФТПЗ\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\3 курс\ФТПЗ\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+C:\3 курс\ФТПЗ\Lab1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\3 курс\ФТПЗ\Lab1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\3 курс\ФТПЗ\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.Cache
+C:\3 курс\ФТПЗ\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\3 курс\ФТПЗ\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+C:\Users\velikii\Desktop\ФТПЗ\Lab1\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
